@@ -1,23 +1,123 @@
-# 💫 About Me:
-👋 Hi, I’m VINEET KAHAR<br>👀 I’m interested in web devlopment<br>🌱 I’m currently learning MERN<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me - vineetkahar088@gmail.com
+# 👋 Hi, I'm Vineet Kahar
 
+### 🚀 MERN Stack Developer | Full Stack Web Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineetkahar009/) 
+I'm a passionate **MERN Stack Developer** focused on building modern, scalable and user-friendly web applications.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vineetkahar088-hash&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vineetkahar088-hash&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkahar088-hash&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy turning ideas into real-world applications and continuously improving my skills through projects, problem solving and open-source contributions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vineetkahar088-hash&icon=6&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
 
-<!---
-Aviraj0714/Aviraj0714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 B.Tech in Computer Science
+- 💻 MERN Stack Developer
+- ⚛️ Building applications with React.js
+- 🟢 Developing APIs with Node.js & Express.js
+- 🍃 Working with MongoDB & MySQL
+- 🔐 Experience with REST APIs, JWT Authentication
+- 🧩 Interested in Full Stack Development
+- 🌱 Currently improving my DSA & Backend Development skills
+- 🤝 Open to collaboration and exciting projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔗 Provider Hub – Webmaster Dashboard
+
+A publisher-focused link monetization platform built using the MERN stack.
+
+**Features:**
+- 👤 Publisher registration & authentication
+- 📊 Analytics dashboard
+- 🔗 Smart link shortening
+- 💰 Monetization & withdrawal system
+- 🤖 Telegram Bot integration
+- 🔐 JWT authentication
+- ⚡ REST API integration
+- 🛠️ Admin dashboard
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
+
+---
+
+### 🛒 E-Commerce Web Application
+
+A modern e-commerce application with product management and user-friendly UI.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+---
+
+## 📊 GitHub Activity
+
+I believe in learning by building and improving every day.
+
+- 🔥 Consistent coding
+- 🚀 Building real-world projects
+- 🧩 Solving programming problems
+- 🤝 Open-source contributions
+- 📚 Continuously learning new technologies
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Become a stronger Full Stack Developer
+- 🧠 Improve Data Structures & Algorithms
+- 🔥 Maintain consistent GitHub contributions
+- 🌍 Contribute more to Open Source
+- 💼 Work on production-level applications
+- 🤝 Collaborate with developers and teams
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing:
+
+- 💻 Web Development
+- 🚀 MERN Stack
+- 🤝 Open Source
+- 💡 Interesting Projects
+- 💼 Career Opportunities
+
+📧 **Email:** vineetkahar088@gmail.com
+
+🔗 **LinkedIn:** vineetkahar009
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**"Build. Learn. Improve. Repeat." 🚀**
