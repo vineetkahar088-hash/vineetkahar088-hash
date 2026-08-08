@@ -89,8 +89,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vineetkahar088-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=e6edf3" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkahar088-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6edf3" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vineetkahar088-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=e6edf3&cache_seconds=1800" />
+&nbsp;
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkahar088-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6edf3&cache_seconds=1800" />
 
 </div>
 
@@ -100,17 +101,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=vineetkahar088-hash&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f97316&currStreakLabel=7c3aed&sideLabels=8b949e&dates=8b949e" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vineetkahar088-hash&theme=tokyonight&no-frame=true&margin-w=6&column=4&no-bg=true" />
+<img src="https://streak-stats.demolab.com/?user=vineetkahar088-hash&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f97316&currStreakLabel=7c3aed&sideLabels=8b949e&dates=8b949e&stroke=0d1117" />
 
 </div>
 
@@ -120,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vineetkahar088-hash&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f97316&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vineetkahar088-hash&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f97316&area=true&hide_border=true" />
 
 </div>
 
