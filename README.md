@@ -85,7 +85,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak Status
 
 <div align="center">
 
