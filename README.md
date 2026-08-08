@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vineetkahar088-hash&color=7c3aed&style=flat-square&label=Profile+Views" />
-
 </div>
 
 ---
@@ -83,19 +81,6 @@
 
 **🛠 Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
 
----
-
-## 📊 GitHub Status
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vineetkahar088-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=e6edf3&cache_seconds=1800" />
-&nbsp;
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkahar088-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6edf3&cache_seconds=1800" />
-
-</div>
-
----
 
 ## 🔥 Streak Status
 
