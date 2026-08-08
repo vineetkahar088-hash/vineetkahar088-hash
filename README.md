@@ -1,123 +1,113 @@
-# 👋 Hi, I'm Vineet Kahar
+<div align="center">
 
-### 🚀 MERN Stack Developer | Full Stack Web Developer
+<!-- Animated Header Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+there!+I'm+Vineet+Kahar+%F0%9F%91%8B;MERN+Stack+Developer+%7C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-I'm a passionate **MERN Stack Developer** focused on building modern, scalable and user-friendly web applications.
+<img src="https://komarev.com/ghpvc/?username=vineetkahar088-hash&color=7c3aed&style=flat-square&label=Profile+Views" alt="profile views" />
 
-I enjoy turning ideas into real-world applications and continuously improving my skills through projects, problem solving and open-source contributions.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science
-- 💻 MERN Stack Developer
-- ⚛️ Building applications with React.js
-- 🟢 Developing APIs with Node.js & Express.js
-- 🍃 Working with MongoDB & MySQL
-- 🔐 Experience with REST APIs, JWT Authentication
-- 🧩 Interested in Full Stack Development
-- 🌱 Currently improving my DSA & Backend Development skills
-- 🤝 Open to collaboration and exciting projects
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About Me
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+```javascript
+const vineet = {
+  name: "Vineet Kahar",
+  role: "MERN Stack Developer",
+  location: "India 🇮🇳",
+  email: "vineetkahar088@gmail.com",
+  linkedin: "in/vineetkahar009",
+  lookingFor: "Collaborations & Open Source Projects",
+  stack: ["MongoDB", "Express.js", "React", "Node.js"],
+};
+```
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 🔗 Provider Hub – Webmaster Dashboard
+**Frontend**
 
-A publisher-focused link monetization platform built using the MERN stack.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Features:**
-- 👤 Publisher registration & authentication
-- 📊 Analytics dashboard
-- 🔗 Smart link shortening
-- 💰 Monetization & withdrawal system
-- 🤖 Telegram Bot integration
-- 🔐 JWT authentication
-- ⚡ REST API integration
-- 🛠️ Admin dashboard
+**Backend & Database**
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
+**Tools & Platforms**
 
-### 🛒 E-Commerce Web Application
-
-A modern e-commerce application with product management and user-friendly UI.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
----
-
-## 📊 GitHub Activity
-
-I believe in learning by building and improving every day.
-
-- 🔥 Consistent coding
-- 🚀 Building real-world projects
-- 🧩 Solving programming problems
-- 🤝 Open-source contributions
-- 📚 Continuously learning new technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC4899?style=flat-square&logo=reacthookform&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🎯 2026 Goals
+### 📊 GitHub Stats
 
-- 🚀 Become a stronger Full Stack Developer
-- 🧠 Improve Data Structures & Algorithms
-- 🔥 Maintain consistent GitHub contributions
-- 🌍 Contribute more to Open Source
-- 💼 Work on production-level applications
-- 🤝 Collaborate with developers and teams
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vineetkahar088-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=e6edf3" />
 
-## 🤝 Let's Connect
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkahar088-hash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6edf3" />
 
-I'm always open to discussing:
-
-- 💻 Web Development
-- 🚀 MERN Stack
-- 🤝 Open Source
-- 💡 Interesting Projects
-- 💼 Career Opportunities
-
-📧 **Email:** vineetkahar088@gmail.com
-
-🔗 **LinkedIn:** vineetkahar009
+</div>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+### 🔥 Streak Stats
 
-**"Build. Learn. Improve. Repeat." 🚀**
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vineetkahar088-hash&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f97316&currStreakLabel=7c3aed&sideLabels=8b949e&dates=8b949e&stroke=21262d" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vineetkahar088-hash&theme=tokyonight&no-frame=true&margin-w=8&column=4&no-bg=true" />
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vineetkahar088-hash&bg_color=0d1117&color=7c3aed&line=7c3aed&point=f97316&area=true&hide_border=true" />
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetkahar009)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineetkahar088@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vineetkahar088-hash)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer" />
+</div>
